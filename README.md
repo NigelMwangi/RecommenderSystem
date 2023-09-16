@@ -44,3 +44,5 @@ Also performed, Data Exploration
 Integration with External Data Sources: Expanding our data sources by integrating external datasets, such as movie reviews, social media sentiment analysis, or movie industry trends. This additional data can provide valuable insights into the popularity and sentiment surrounding movies, enhancing the quality and relevance of recommendations.
 
 By doing this we can further improve the performance and user satisfaction of your movie recommender system, ensuring it remains a valuable tool for your users and contributes to the success of our Dope Movie Company.
+# Slides For the Movie Recommender System
+https://docs.google.com/presentation/d/1fVWVpCuDKo63rB3xiWcP1gSYoPmX68FVvfbwOZ_h2bs/edit#slide=id.p
